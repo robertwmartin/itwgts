@@ -1,5 +1,6 @@
 # itwgts
-*The Internet is gone and it is up to you to keep the world running. *
+*The Internet is gone and it is up to you to keep the world running.*
+
 
 ## A Thought Experiment
 This repo should not be viewed as nihilistic or fatalistic. Rather, it is an extension of the absolute wonder and awe resulting from the complex technological underpinnings of our modern world. Yes, some days it seems implausible that our society could actually make skyscrpaers that do not fall over, or international flights that do not crash, but, for the most part, that is the reality of our lives. The analogy holds for the Internet and Internet technologies - somehow this complicated and complex array of servers, apps, APIs, scripts, hardware, networks, and probably in more than one case, duct tape, provides our world with the foundation for modern technologies and computing. 
@@ -8,11 +9,11 @@ That said, the state of the world seems to be getting worse, and so a thought ex
 
 
 ## What is ITWGTS?
-We are creating a repository of technical information needed to preserve the aspects of our society that rely on computer networking and Internet technologies. This repository, and this repo, is called ITWGTS, which is pronounced "it wiggets" and stands for "If the world goes to shit".
+We are creating a repository of technical information needed to preserve the aspects of our society that rely on computer networking and Internet technologies. This repository is called ITWGTS, which is pronounced "it wiggets" and stands for "If the world goes to shit".
 
-The potential reasons for requiring this repository are many - nuclear war, societal collapse, runaway climate change, fractionation of nation states, the decline of an open Internet, etc. The desire is to ensure that we could keep as much of the world we have today running through a large-scale, global change and until a point in time where society is rebuilt. 
+The potential reasons for requiring this repository are many - nuclear war, societal collapse, runaway climate change, fracturing of nation states, the end of an open Internet, etc. The desire is to ensure that we could keep as much of the world we have today running through a large-scale, global change up until the point in time where society is rebuilt. 
 
-The target audience is the engineers, technicians, IT professionals, tinkers, and hobbyists that currently know how to make technologies work. Think hacker as it was originally defined.
+The target audience is the engineers, technicians, IT professionals, tinkers, and hobbyists that currently know how to make technologies work. Think **hacker** as it was originally defined.
 
 
 ## Scope and Time Frame
