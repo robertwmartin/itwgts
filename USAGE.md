@@ -1,0 +1,5 @@
+As outlined in the root README.md file, itwgts is a preservation mechanism based on a thought experiment about what would be required for a group of engineers and technicians to maintain, repair, and potentially reboot the Internet as we know it today. We can call the collection of all of this information the itwgts vault. 
+
+The ultimate goal of itwgts is to build a bootable memory stick that launches a Linux-based operating system to allow access to the itwgts vault. This means itwgts exists in two parts. First, itwgts needs to be bootable to give the user a known computing base to build on. Second, itwgts needs to contain the reference material, source code, and manuals required to get reboot the Internet, i.e. the itwgts vault.
+
+The inspiration for the bootable functionality envisioned for itwgts is Tails, which has built a very usable computing experience in a roughly 5 Gb ISO image. The work to fork Tails and build a new ISO image that additionally contains the itwgts vault seems interesting and, to be frank, difficult. So for the time being, itwgts will just focus on capturing the information to go into the  
